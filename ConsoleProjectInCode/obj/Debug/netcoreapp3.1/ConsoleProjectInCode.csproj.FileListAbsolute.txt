@@ -1,0 +1,14 @@
+C:\Users\Khalid Suleymanov\source\repos\ConsoleProjectInCode\KhalidConsoleApp2023\ConsoleProjectInCode\bin\Debug\netcoreapp3.1\ConsoleProjectInCode.exe
+C:\Users\Khalid Suleymanov\source\repos\ConsoleProjectInCode\KhalidConsoleApp2023\ConsoleProjectInCode\bin\Debug\netcoreapp3.1\ConsoleProjectInCode.deps.json
+C:\Users\Khalid Suleymanov\source\repos\ConsoleProjectInCode\KhalidConsoleApp2023\ConsoleProjectInCode\bin\Debug\netcoreapp3.1\ConsoleProjectInCode.runtimeconfig.json
+C:\Users\Khalid Suleymanov\source\repos\ConsoleProjectInCode\KhalidConsoleApp2023\ConsoleProjectInCode\bin\Debug\netcoreapp3.1\ConsoleProjectInCode.runtimeconfig.dev.json
+C:\Users\Khalid Suleymanov\source\repos\ConsoleProjectInCode\KhalidConsoleApp2023\ConsoleProjectInCode\bin\Debug\netcoreapp3.1\ConsoleProjectInCode.dll
+C:\Users\Khalid Suleymanov\source\repos\ConsoleProjectInCode\KhalidConsoleApp2023\ConsoleProjectInCode\bin\Debug\netcoreapp3.1\ConsoleProjectInCode.pdb
+C:\Users\Khalid Suleymanov\source\repos\ConsoleProjectInCode\KhalidConsoleApp2023\ConsoleProjectInCode\obj\Debug\netcoreapp3.1\ConsoleProjectInCode.csproj.AssemblyReference.cache
+C:\Users\Khalid Suleymanov\source\repos\ConsoleProjectInCode\KhalidConsoleApp2023\ConsoleProjectInCode\obj\Debug\netcoreapp3.1\ConsoleProjectInCode.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Khalid Suleymanov\source\repos\ConsoleProjectInCode\KhalidConsoleApp2023\ConsoleProjectInCode\obj\Debug\netcoreapp3.1\ConsoleProjectInCode.AssemblyInfoInputs.cache
+C:\Users\Khalid Suleymanov\source\repos\ConsoleProjectInCode\KhalidConsoleApp2023\ConsoleProjectInCode\obj\Debug\netcoreapp3.1\ConsoleProjectInCode.AssemblyInfo.cs
+C:\Users\Khalid Suleymanov\source\repos\ConsoleProjectInCode\KhalidConsoleApp2023\ConsoleProjectInCode\obj\Debug\netcoreapp3.1\ConsoleProjectInCode.csproj.CoreCompileInputs.cache
+C:\Users\Khalid Suleymanov\source\repos\ConsoleProjectInCode\KhalidConsoleApp2023\ConsoleProjectInCode\obj\Debug\netcoreapp3.1\ConsoleProjectInCode.dll
+C:\Users\Khalid Suleymanov\source\repos\ConsoleProjectInCode\KhalidConsoleApp2023\ConsoleProjectInCode\obj\Debug\netcoreapp3.1\ConsoleProjectInCode.pdb
+C:\Users\Khalid Suleymanov\source\repos\ConsoleProjectInCode\KhalidConsoleApp2023\ConsoleProjectInCode\obj\Debug\netcoreapp3.1\ConsoleProjectInCode.genruntimeconfig.cache
